@@ -1,2 +1,2 @@
 # modern-calculator
-modern-calculator with js
+JavaScript Modern Calculator.
